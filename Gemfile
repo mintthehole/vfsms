@@ -4,7 +4,7 @@ source "http://rubygems.org"
 gemspec
 
 group :test do
-  gem 'autotest'
-  gem 'rspec'
-  gem 'spork', '0.9.0.rc9'
+ # gem 'autotest'
+#  gem 'rspec'
+ # gem 'spork', '0.9.0.rc9'
 end
